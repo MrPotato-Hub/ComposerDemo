@@ -1,0 +1,8 @@
+{
+    "name": "mrpotato-hub/composerdemo",
+    "description": "a composer test",
+    "type": "project",
+    "license": "mit",
+    "minimum-stability": "dev",
+    "require": {}
+}
